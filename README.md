@@ -24,12 +24,12 @@ A simple and intuitive web application for managing your favorite recipes. This 
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/recipe-book-web-app.git
+    git clone https://github.com/SachinX01/CodeClauseInternship_Recipe-Book.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd recipe-book-web-app
+    cd CodeClauseInternship_Recipe-Book
     ```
 
 3. Open `index.html` in your favorite web browser to use the app.
@@ -58,7 +58,9 @@ A simple and intuitive web application for managing your favorite recipes. This 
 
 ## 📷 Screenshots
 
-![Recipe Book Interface]()
+![Recipe Book Interface Desktop](Images/Desktop_screenshot.png)
+
+![Recipe Book Interface Mobile](Images/Mobile_screenshot.jpg)
 
 ## 📄 License
 
