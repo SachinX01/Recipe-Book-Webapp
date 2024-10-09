@@ -1,4 +1,4 @@
-# CodeClauseInternship_Recipe-Book
+# Recipe-Book-Webapp
 Web app for storing and displaying recipes using HTML, CSS, JavaScript, Local Storage
 
 # 🍲 Recipe Book Web App
